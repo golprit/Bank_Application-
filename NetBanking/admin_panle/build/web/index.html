@@ -1,0 +1,40 @@
+<html>
+<head>
+    <title>login</title>
+    <link rel="shortcut icon" type="image/x-icon" href="image/YesBank.png">
+
+            <link href="file2.css" rel="stylesheet">
+</head>
+        <body>
+            <div class="wrapper">
+                <a href="index.html"><span class="icon-close">
+                    <ion-icon name="close"></ion-icon>
+                </span></a>
+
+                <div class="form-box login">
+                    <h2>LOGIN</h2>
+                    <form action="login" method="post">
+                        <div class="input-box">
+                            <span class="icon">
+                                <ion-icon name="mail"></ion-icon>
+                            </span>
+                            <input type="text" name="un" required>
+                            <label>UserName</label>
+                        </div>
+                        <div class="input-box">
+                            <span class="icon">
+                                <ion-icon name="lock-closed"></ion-icon>
+                            </span>
+                            <input type="password" name="ps" maxlength="10" required>
+                            <label>password</label>
+                        </div>
+                        <input type="submit" name="submit" class="btn">
+                    </form>
+                </div>
+            </div>
+            <script src="script.js"></script>
+            <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+            <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+
+        </body>
+</html>

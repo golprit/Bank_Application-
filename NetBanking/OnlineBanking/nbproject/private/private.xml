@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/JavaGetEmail/JavaMail.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/resetPassword.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/account_type2.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/account.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/forgot_password.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/balance.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/ReceiverDetailsServlet.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/register.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/CashierDeposit.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/header.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/CheckUser.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/AccountNumber/AccountNumberGen.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/account.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/forgot_password.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/register.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/TransferMoney.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/TransactionHistory.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/login.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/AccountHeader.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/home.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/EmailCheck.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/OTPCheck.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/index.html</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/deposite.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/footer.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/EmailCheck.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/resend.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/account2.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/logout.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/web/transfer.jsp</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/passwordencryption/PasswordEncryption.java</file>
+            <file>file:/D:/Online%20Banking/OnlineBanking/src/java/ResetPassword.java</file>
+        </group>
+    </open-files>
+</project-private>
